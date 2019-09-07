@@ -1,0 +1,6 @@
+export const FONT_SEMIBOLD='ArgentumSans-SemiBold'
+export const FONT_LIGHT='ArgentumSans-Light'
+export const FONT_EXTRA_LIGHT='ArgentumSans-ExtraLight'
+export const FONT_MEDIUM='ArgentumSans-Medium'
+export const FONT_BOLD='Montserrat-Bold'
+export const FONT_REGULAR='Montserrat-Regular'
